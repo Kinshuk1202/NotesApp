@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_del"
+        android:title="del"
+        android:icon="@drawable/baseline_delete_forever_24"
+        android:iconTint="@color/white"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_share_update"
+        android:icon="@drawable/baseline_share_24"
+        android:title="share"
+        android:iconTint="@color/white"
+        app:showAsAction="always"/>
+
+</menu>
