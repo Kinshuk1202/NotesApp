@@ -1,6 +1,7 @@
 # Notes App
 An app to create save , delete , update and share notes.
-Notes are stored in local storage using Room Database.
+Notes are stored in local storage using Room Database. <br>
+Users can also enable app lock option and can use their mobile authentication as app lock also!
 
 ### APp UI:
 
